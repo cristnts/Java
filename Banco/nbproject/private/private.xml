@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/buscar.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/servicio/ClienteServicio.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/controlador/DepositosControlador.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/index.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/administracion.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dominio/Cuenta.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/login.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dto/ClienteDTO.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/agregar.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/agregarCuenta.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dao/DepositoDAO.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dominio/Deposito.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/dominio/Cliente.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/controlador/GiroServlet.java</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/web/formularioDeposito.jsp</file>
+            <file>file:/C:/Users/Vania/Desktop/Banco/src/java/controlador/ClienteServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
